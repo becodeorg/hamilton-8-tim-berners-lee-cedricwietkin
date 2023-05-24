@@ -18,3 +18,21 @@
 <li>the result must look like the image below</li>
 </ol>
 
+### CSS
+
+<ol>
+<li>write the style.css</li>
+<li>separate the elements into different blocks</li>
+<li>implement the open sans font</li>
+<li>the result must look like the image below</li>
+
+### Git
+
+<ol>
+<li>commit/push</li>
+<li>deploy on a Github page</li>
+
+### link
+
+[Lien]( "titre de lien optionnel")
+
