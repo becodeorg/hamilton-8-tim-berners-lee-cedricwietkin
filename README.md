@@ -35,5 +35,5 @@
 
 ### link
 
-[My page](https://cedricwietkin.github.io/firsthtml.io/index.html "My Page")
+[My page](https://becodeorg.github.io/hamilton-8-tim-berners-lee-cedricwietkin/ "My Page")
 
