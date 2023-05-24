@@ -43,7 +43,6 @@
     right: 25px;
     font-size: 36px;
   }
-  
   /* Icône burger */
   .burger-icon span {
     display: block;
@@ -69,8 +68,7 @@
     padding-top: 60px;
     transition: left 0.5s ease;
   }
-  
-  /* Sidenav menu links */
+   /* Sidenav menu links */
   .sidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
@@ -83,26 +81,22 @@
   .sidenav a:hover {
     color: azure;
   }
-  
   .sidenav ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
   }
-  
   /* Active class */
   .sidenav.active {
     left: 0;
   }
-  
   /* Close btn */
   .sidenav .close {
     position: absolute;
     top: 0;
     right: 25px;
     font-size: 36px;
-  }
-  
+  } 
   /* Icône burger */
   .burger-icon span {
     display: block;
@@ -120,12 +114,13 @@
     background-color: lightgray;
     font-family: 'open sans', sans-serif;
     color: slategray;
+    word-spacing: 6px;
   }
   main{
-    height: 1800px;
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    height: 2400px;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
   }
   .presentation{
     display: flex;
@@ -146,7 +141,8 @@
   }
   h1{
     font-family: 'open sans', sans-serif;
-    font-size: 800;
+    font-style: bold;
+    font-weight: 800;
     color: red;
   }
   .inventor{
@@ -167,24 +163,39 @@
   }
   
   .two{
-    display: flex;
-    align-items: center;
     background-color: white;
     margin-top: 20px;
     border-radius: 5px;
-    height: auto;
+    height: 150px;
     width: 100%;
+    margin-bottom: 40px;
   }
   .social-media{
+    background-color: white;
     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
     list-style: none;
+    cursor: pointer;
+    height: 150px;
+  }
+  a{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: lightgray;
+    text-align: center;
   }
   
   .movies{
-    display: inline-grid ;
-    justify-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: white;
-    margin-top: 20px;
+    margin-top: 60px;
     border-radius: 5px;
     width: 100%;
   }
@@ -194,8 +205,18 @@
   }
   img{
     float: left;
-    margin-right: 10px
+    margin-right: 20px
   }
   h3{
     display: flex;
+    justify-content: center;
+  }
+  .text{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .paragraph{
+    margin-left: 20px;
+    margin-top: 0px;
   }
