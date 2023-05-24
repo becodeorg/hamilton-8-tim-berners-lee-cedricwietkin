@@ -28,10 +28,10 @@
 
 ### Git
 
-<ol>
+<ul>
 <li>commit/push</li>
 <li>deploy on a Github page</li>
-</ol>
+</ul>
 
 ### link
 
