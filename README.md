@@ -31,6 +31,7 @@
 <ol>
 <li>commit/push</li>
 <li>deploy on a Github page</li>
+</ol>
 
 ### link
 
