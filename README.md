@@ -34,5 +34,5 @@
 
 ### link
 
-[Lien](https://cedricwietkin.github.io/firsthtml.io/index.html "My Page")
+[My page](https://cedricwietkin.github.io/firsthtml.io/index.html "My Page")
 
