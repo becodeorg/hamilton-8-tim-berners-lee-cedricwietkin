@@ -10,3 +10,11 @@
 <li>download the pictures below into the images folder</li>
 </ol>
 
+### HTML
+
+<ol>
+<li>write the index.html</li>
+<li>implement the icons</li>
+<li>the result must look like the image below</li>
+</ol>
+
